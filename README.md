@@ -1,1 +1,1 @@
-Jogo da Forca e de Advinhação de números feito aplicando os conhecimentos aprendidos em Python 
+Jogo da Forca e de Advinhação de números que foram feitos aplicando os conhecimentos aprendidos em Python 
